@@ -30,3 +30,6 @@ Git command;
 - Git remote add : add untracked file
 - git push origin main 
 - Git pull origin main
+
+Pendapat:
+Workshop memberi materi yang sangat berguna bagi mahasiswa jurusan TIK, dan dijelaskan dengan cara yang mudah untuk dipahami. Hanya saja, karena masalah jaringan, kegiatan praktik workshop tidak bisa dilaksanakan dengan lancar.
